@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I am a passionate **Computer Science** student at 
 - **React**
 - **JavaScript**
 - **HTML/CSS**
-- **PHP**
+- **tailwindcss**
+- **bootstrap**
+- **sass**
 
 #### **Backend:**
 - **Node.js**
-- **FastAPI**
-- **Flask**
-- **PostgreSQL**
+- **PHP**
 
 #### **Other Tools:**
 - **Docker**
