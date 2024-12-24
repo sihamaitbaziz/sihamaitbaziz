@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Siham Aitbaziz 👋
 
-<!--
-**sihamaitbaziz/sihamaitbaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate **Computer Science** student at **ESTIN** with a focus on **AI** and **Data Science**. I love solving problems and building projects that can make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently in **4th year** of Computer Science, specializing in **AI** and **Data Science**.
+- 💻 Enthusiast of **Web Development**, **Programming**, and **Data Science**.
+- 🌱 Currently learning **MERN stack** (MongoDB, Express, React, Node.js).
+- 📚 On a mission to catch up on my programming skills and explore the world of **data science**.
+
+---
+
+### 🌟 My Tech Stack
+
+#### **Frontend:**
+- **React**
+- **JavaScript**
+- **HTML/CSS**
+- **PHP**
+
+#### **Backend:**
+- **Node.js**
+- **FastAPI**
+- **Flask**
+- **PostgreSQL**
+
+#### **Other Tools:**
+- **Docker**
+- **Git & GitHub**
+- **Notion** & **Trello** for project management
+- **Jupyter** & **VS Code** for coding
+
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [s_aitbaziz@estin.dz](mailto:s_aitbaziz@estin.dz)
+
+---
+
+### 🎯 Let's build something amazing together!
+
